@@ -1,0 +1,13 @@
+# Don't change it.
+config-version: 1
+
+Plugin:
+  language: ko
+
+Item:
+  material: STONE
+  display-name: "aa"
+  lore:
+    - a
+    - b
+  model-data: -1

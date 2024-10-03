@@ -1,0 +1,6 @@
+# Don't change it.
+config-version: 1
+
+general:
+  prefix: "<gradient:#304352:#d7d2cc>Vortexen</gradient> <gray>| "
+  reload: "<prefix><#55ffa4>Successfully reloaded."

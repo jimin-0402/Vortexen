@@ -1,0 +1,6 @@
+# 변경하지 마세요.
+config-version: 1
+
+general:
+  prefix: "<gradient:#304352:#d7d2cc>Vortexen</gradient> <gray>| "
+  reload: "<prefix><#55ffa4>성공적으로 새로고침되었습니다."
